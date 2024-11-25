@@ -1,2 +1,2 @@
-# sematic_reviews
+# semantic_reviews
 demo sematic review tiki page
