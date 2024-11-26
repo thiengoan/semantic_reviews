@@ -1,0 +1,8 @@
+flask==
+selenium==
+joblib==
+transformers==
+torch==
+scikit-learn==
+numpy==
+pandas==
