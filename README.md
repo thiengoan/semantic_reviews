@@ -7,3 +7,4 @@ demo sematic review tiki page
 2. Frontend (Vue.js v3)
   - npm install or update
   - npm run dev
+- App using models: Naive_bayse, BiLSTM, PhoBert and api GPT.
